@@ -1,23 +1,23 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
-description: This is a product description
-product_code: ABC124
+title: Ara AI
+subtitle: Online 
+description: Der letzte Call-Center-Agent - Jako
+product_code: parrot_v1
 layout: product
-image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
+image: img/parrot.png
+price: 99 € per Agent
 features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+    - label: Großartige Entlastung für jeden Firstlevel Support
+      icon: fa-phone-square
+    - label: Wird mit zwei verschiedenen Stimmen ausgeliefert
+      icon: fa-microphone
+    - label: Ausführbar für Single and Multiple Anrufe
+      icon: fa-users
+rating: 5
 ---
 
-This is the content about the product.
+Entdecken Sie die Zukunft des Kundensupports mit unserem KI-gesteuerten First-Level-Support-Agenten! Unser virtueller Assistent ist wie kein anderer in der Lage, nahtlos in Ihre IT-Infrastruktur zu integrieren. Mit der Fähigkeit zu telefonieren, zu chatten und E-Mails zu schreiben, steht er Ihren Kunden jederzeit zur Verfügung.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Dank seiner intelligenten Datenbank kann unser Agent Erste Hilfe auf Basis Ihrer vorhandenen Unternehmensdaten bieten, schnelle und präzise Antworten liefern und bei Bedarf sogar komplexe Probleme identifizieren und bearbeiten. Und sollte es einmal zu gravierenden Störungen kommen, können Sie sich darauf verlassen, dass unser Agent sich umgehend entschuldigt, ein Ticket eröffnet und den Kunden darauf hinweist, dass das Problem schnellstmöglich von einem Expertenteam gelöst wird.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Verbessern Sie die Effizienz Ihres Kundensupports und steigern Sie gleichzeitig die Zufriedenheit Ihrer Kunden mit unserem fortschrittlichen KI-First-Level-Support-Agenten. Kontaktieren Sie uns noch heute, um mehr zu erfahren oder Probieren sie ihn einfach aus: 01516881151

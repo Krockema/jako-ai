@@ -1,21 +1,22 @@
 ---
-title: Product 3 Name
+title: Ara Insight
 subtitle: Product 3 tagline here
 product_code: ABC125
 layout: product
 image: https://via.placeholder.com/640x480
-price: £2.99 + VAT
+price: 99 € per Agent
 features:
-    - label: Great addition to any home
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+    - label: KI getriebenes Analyse tool für Predictive Analytics und Data Mining, um tiefe Einblicke in Ihre Unternehmensdaten zu gewinnen und fundierte Entscheidungen zu treffen.
+      icon: fa-line-chart
+    - label: Dashboards und Visualisierungstools für eine einfache und ansprechende Darstellung Ihrer Daten, sodass Sie Trends, Muster und Zusammenhänge leicht erkennen können, ohne übermäßig technisch versiert zu sein.
+      icon: fa-outdent
+    - label: Maßgeschneiderter Berichte und Präsentationen, die Ihre Analyseergebnisse klar und verständlich kommunizieren
+      icon: fa-flag-o
+rating: 4
 ---
 
-This is the content about the product.
+Tauchen Sie ein in die Welt der Daten mit Ara Insight - Ihrem Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Mit Ara Insight haben Sie die Möglichkeit, Ihre Unternehmensdaten wie nie zuvor zu verstehen. Unsere fortschrittlichen Analysefunktionen, benutzerfreundlichen Dashboards und umfassenden Berichterstellungstools ermöglichen es Ihnen, Trends zu erkennen, Muster zu identifizieren und fundierte Entscheidungen zu treffen - alles mit Leichtigkeit und Effizienz.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Egal, ob Sie Ihr Unternehmen optimieren, neue Chancen entdecken oder Herausforderungen meistern möchten, ParaInsight ist Ihr verlässlicher Partner auf dem Weg zum Erfolg. Entdecken Sie noch heute, wie ParaInsight Ihnen helfen kann, Ihre Daten in wertvolle Erkenntnisse umzuwandeln und Ihre Ziele zu erreichen!

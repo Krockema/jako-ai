@@ -1,22 +1,24 @@
 ---
-title: Product 2 Name
-subtitle: Product 2 tagline here
+title: Ara Search
+subtitle: Dein zuverlässiger Suchgefährte mit dem Charme von Jako, dem Graupapagei
 product_code: ABC123
 layout: product
 image: https://via.placeholder.com/640x480
-price: £0.99 + VAT
+price: 99 € per Agent
 features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+    - label: Sie Ihre Fragen einfach und natürlich, und Ara Search wird Ihre Anfragen verstehen und präzise Antworten aus verschiedenen unternehmenseigenen Quellen zusammenstellen.
+      icon: fa-search
+    - label: Durchsucht Datenbanken, Dokumente und externe Quellen, um Ihnen alle relevanten Informationen zu liefern
+      icon: fa-database
+    - label: Dank seiner fortschrittlichen Retrieval-Technologie erhalten Sie nicht nur oberflächliche Ergebnisse, sondern auch tiefgreifende Einblicke, die es Ihnen ermöglichen, Ihre Arbeitsabläufe zu optimieren und Ihre Ziele schneller zu erreichen.
+      icon: fa-tasks
+rating: 4.5
 ---
 
-This is the content about the product.
+Entdecken Sie Ara Search: Ihr zuverlässiger Partner für eine revolutionäre Sucherfahrung! Mit Ara Search tauchen Sie ein in eine Welt, in der die Suche nach Informationen so einfach wie nie zuvor ist.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Unser intelligenter Assistent durchsucht mühelos alle Ihre unternehmenseigenen Quellen, um die benötigten Informationen zusammenzustellen und Ihnen präzise Antworten auf Ihre Fragen zu liefern. Egal, ob es sich um interne Datenbanken, Unternehmensdokumente oder externe Quellen handelt - Ara Search findet, sichtet und präsentiert Ihnen die relevanten Informationen in kürzester Zeit.
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Dank seiner fortschrittlichen Retrieval-Technologie können Sie sich darauf verlassen, dass Ara Search nicht nur die oberflächlichen Ergebnisse liefert, sondern auch tiefgreifende Einblicke bietet, die Ihnen helfen, fundierte Entscheidungen zu treffen. Mit Ara Search an Ihrer Seite sind Sie immer einen Schritt voraus und können Ihre Arbeitsabläufe optimieren, indem Sie die benötigten Informationen schnell und effizient abrufen.
+
+Erleben Sie die Zukunft der Suchtechnologie mit Ara Search und lassen Sie sich von unserem intelligenten Assistenten dabei unterstützen, das volle Potenzial Ihrer unternehmenseigenen Daten auszuschöpfen. Kontaktieren Sie uns noch heute, um mehr zu erfahren und Ara Search in Aktion zu erleben!

@@ -1,0 +1,27 @@
+style: is-light
+height: is-medium
+items:
+  - title: Ara AI
+    subtitle: Der letzte Call-Center-Agent
+    icon: fa-phone-square
+    description: >
+      Entdecken Sie die Zukunft des Kundensupports mit unserem KI-gesteuerten First-Level-Support-Agenten!
+      Unser virtueller Assistent ist wie kein anderer in der Lage, nahtlos in Ihre IT-Infrastruktur zu integrieren. Mit der Fähigkeit zu telefonieren, zu chatten und E-Mails zu schreiben, steht er Ihren Kunden jederzeit zur Verfügung.
+    call_to_action_name: Probier mich aus!
+    call_to_action_link: /products/product1
+  - title: Ara Search
+    subtitle: Dein zuverlässiger Suchgefährte mit dem Charme von Jako, dem Graupapagei
+    icon: fa-search
+    description: >
+      Unser intelligenter Assistent durchsucht mühelos alle Ihre unternehmenseigenen Quellen, um die benötigten Informationen zusammenzustellen und Ihnen präzise Antworten auf Ihre Fragen zu liefern.
+      Egal, ob es sich um interne Datenbanken, Unternehmensdokumente oder externe Quellen handelt - Ara Search findet, sichtet und präsentiert Ihnen die relevanten Informationen in kürzester Zeit.
+    call_to_action_name: Probier mich aus!
+    call_to_action_link: /products/product2
+  - title: Example callout 3
+    subtitle: Example subtitle 3
+    icon: fa-line-chart
+    icon_brand: true
+    description: >
+      Tauchen Sie ein in die Welt der Daten mit Ara Insight - Ihrem Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
+    call_to_action_name: Probier mich aus!
+    call_to_action_link: /products/product3
