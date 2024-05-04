@@ -19,7 +19,7 @@ items:
     call_to_action_link: /products/product2
   - title: Ara Insight
     subtitle: Finde den Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
-    icon: fa-line-chart
+    icon: fa-chart-scatter-bubble
     icon_brand: true
     description: >
       Tauchen Sie ein in die Welt der Daten mit Ara Insight - Ihrem Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
