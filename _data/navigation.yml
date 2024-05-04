@@ -1,19 +1,13 @@
-- name: Docs
-  link: /docs/
-- name: Example Pages
+- name: Products
   link: /#
   dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
-- name: Blog
-  link: /blog/
+    - name: Ara AI
+      link: /products/product1
+    - name: Ara Search
+      link: /products/product1
+    - name: Ara Insight
+      link: /products/product1
+- name: Team
+  link: /team/
+- name: Contact
+  link: /contact/
