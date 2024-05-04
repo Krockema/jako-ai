@@ -12,7 +12,7 @@ features:
       icon: fa-database
     - label: Dank seiner fortschrittlichen Retrieval-Technologie erhalten Sie nicht nur oberflächliche Ergebnisse, sondern auch tiefgreifende Einblicke, die es Ihnen ermöglichen, Ihre Arbeitsabläufe zu optimieren und Ihre Ziele schneller zu erreichen.
       icon: fa-tasks
-rating: 4.5
+rating: 5
 ---
 
 Entdecken Sie Ara Search: Ihr zuverlässiger Partner für eine revolutionäre Sucherfahrung! Mit Ara Search tauchen Sie ein in eine Welt, in der die Suche nach Informationen so einfach wie nie zuvor ist.
