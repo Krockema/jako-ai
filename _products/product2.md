@@ -3,7 +3,7 @@ title: Ara Search
 subtitle: Dein zuverlässiger Suchgefährte mit dem Charme von Jako, dem Graupapagei
 product_code: ABC123
 layout: product
-image: ../../img/jako_v2.png
+image: ../../img/Parrot_magni.png
 price: 99 € per Agent
 features:
     - label: Sie Ihre Fragen einfach und natürlich, und Ara Search wird Ihre Anfragen verstehen und präzise Antworten aus verschiedenen unternehmenseigenen Quellen zusammenstellen.

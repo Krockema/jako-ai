@@ -3,11 +3,11 @@ title: Ara Insight
 subtitle: Finde den Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
 product_code: ABC125
 layout: product
-image: https://via.placeholder.com/640x480
+image: ../../img/Parrot_Ins
 price: 99 € per Agent
 features:
     - label: KI getriebenes Analyse tool für Predictive Analytics und Data Mining, um tiefe Einblicke in Ihre Unternehmensdaten zu gewinnen und fundierte Entscheidungen zu treffen.
-      icon: fa-line-chart
+      icon: fa-chart-line
     - label: Dashboards und Visualisierungstools für eine einfache und ansprechende Darstellung Ihrer Daten, sodass Sie Trends, Muster und Zusammenhänge leicht erkennen können, ohne übermäßig technisch versiert zu sein.
       icon: fa-outdent
     - label: Maßgeschneiderter Berichte und Präsentationen, die Ihre Analyseergebnisse klar und verständlich kommunizieren

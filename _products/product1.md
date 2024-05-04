@@ -4,11 +4,11 @@ subtitle: Online
 description: Der letzte Call-Center-Agent - Jako
 product_code: parrot_v1
 layout: product
-image: ../img/parrot.png
+image: ../../img/Parrot_Call.png
 price: 99 € per Agent
 features:
     - label: Großartige Entlastung für jeden Firstlevel Support
-      icon: fa-phone-square
+      icon: fa-headset
     - label: Wird mit zwei verschiedenen Stimmen ausgeliefert
       icon: fa-microphone
     - label: Ausführbar für Single and Multiple Anrufe
