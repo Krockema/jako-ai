@@ -5,7 +5,7 @@ tagline: Jako AI
 email: mkro@jako-ai.de
 description: >
   Jako pre launche site.
-baseurl: ""
+baseurl: "https://krockema.github.io/jako-ai/"
 url: "https://krockema.github.io/jako-ai/"
 permalink: pretty
 #favicon: /path/to/favicon.png
