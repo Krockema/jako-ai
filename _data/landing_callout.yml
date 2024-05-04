@@ -17,8 +17,8 @@ items:
       Egal, ob es sich um interne Datenbanken, Unternehmensdokumente oder externe Quellen handelt - Ara Search findet, sichtet und präsentiert Ihnen die relevanten Informationen in kürzester Zeit.
     call_to_action_name: Probier mich aus!
     call_to_action_link: /products/product2
-  - title: Example callout 3
-    subtitle: Example subtitle 3
+  - title: Ara Insight
+    subtitle: Finde den Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
     icon: fa-line-chart
     icon_brand: true
     description: >

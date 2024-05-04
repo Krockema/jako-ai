@@ -1,6 +1,6 @@
 ---
 title: Ara Insight
-subtitle: Product 3 tagline here
+subtitle: Finde den Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
 product_code: ABC125
 layout: product
 image: https://via.placeholder.com/640x480
