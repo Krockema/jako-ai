@@ -6,7 +6,7 @@ hero_height: is-medium
 hero_link: mail@me.de
 hero_link_text: Kaufen
 show_sidebar: false
-callouts: landing_callouts
+callouts: landing_callout
 hero_darken: true
 ---
 
