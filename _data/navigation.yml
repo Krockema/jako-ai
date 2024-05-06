@@ -4,9 +4,9 @@
     - name: Ara AI
       link: /products/product1
     - name: Ara Search
-      link: /products/product1
+      link: /products/product2
     - name: Ara Insight
-      link: /products/product1
+      link: /products/product3
 - name: Team
   link: /team/
 - name: Contact
