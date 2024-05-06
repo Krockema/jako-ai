@@ -64,7 +64,7 @@ div.highlight {
           font-weight: normal;
         }
         p {
-          color: rgb($hero-darken);
+          color: rgba($hero-darken, 1);
           text-transform: uppercase;
           margin: 0;
           font-size: 12px;
