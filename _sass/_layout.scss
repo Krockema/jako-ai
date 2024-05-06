@@ -64,7 +64,7 @@ div.highlight {
           font-weight: normal;
         }
         p {
-          color: $black;
+          color: rgb($hero-darken);
           text-transform: uppercase;
           margin: 0;
           font-size: 12px;
@@ -78,7 +78,7 @@ div.highlight {
     }
   
     .team-summary-large {
-      background-color: $white-offset;
+      background-color: rgba($hero-darken, 0.05);
       padding: 30px;
       border-radius: 3px;
       .team-image {
