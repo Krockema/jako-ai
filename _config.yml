@@ -60,6 +60,12 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
+  - 
+    scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"      
   -
     scope:
       path: ""
