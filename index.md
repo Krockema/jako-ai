@@ -8,7 +8,7 @@ hero_link_text: Kaufen
 show_sidebar: false
 hero_image: /jako-ai/img/jako_v2.png
 callouts: landing_callout
-hero_darken: false
+hero_darken: true
 ---
 
 
