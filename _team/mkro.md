@@ -1,7 +1,7 @@
 ---
 title: "Martin Krockert"
 date: 2024-05-06T10:47:58+10:00
-image: "../img/mkro.jpeg"
+image: "img/mkro.jpeg"
 jobtitle: "CEO"
 linkedinurl: "https://www.linkedin.com/martinkrockert"
 promoted: true
