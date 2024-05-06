@@ -1,11 +1,11 @@
 ---
-title: "Martin Krockert"
+title: "David"
 date: 2024-05-06T10:47:58+10:00
-image: "img/mkro.jpeg"
-jobtitle: "CEO"
-linkedinurl: "https://www.linkedin.com/in/martin-krockert-50a96223a/"
-promoted: true
-weight: 2
+image: "https://via.placeholder.com/100x100"
+jobtitle: "Accauntant"
+linkedinurl: "https://www.linkedin.com/xxxx"
+promoted: false
+weight: 4
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
