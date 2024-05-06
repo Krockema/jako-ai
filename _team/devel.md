@@ -4,7 +4,6 @@ date: 2024-05-06T10:47:58+10:00
 image: "https://via.placeholder.com/100x100"
 jobtitle: "Accauntant"
 linkedinurl: "https://www.linkedin.com/xxxx"
-promoted: false
 weight: 4
 ---
 
