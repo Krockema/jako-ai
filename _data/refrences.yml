@@ -1,0 +1,11 @@
+- tier_name: Referenz
+  size: large
+  description: |-
+    Lore Ypsum dolore ite...
+
+    It can contain multiple lines. It has the size set to 'large'.
+  sponsors:
+    - name: Yolo
+      profile: https://github.com/
+    - name: Solo
+      profile: https://github.com/
