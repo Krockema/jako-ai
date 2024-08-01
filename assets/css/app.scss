@@ -1,5 +1,15 @@
 ---
 ---
 
+$blue: #192A46;
+$blue-invert: #fff;
+$violet: #740558;
+
+// --- navbar 
+
+$navbar-height: 2.25rem;
+
+$primary: $blue;
+$primary-invert: $blue-invert;
 // Import Main CSS file from theme
 @import "main";
