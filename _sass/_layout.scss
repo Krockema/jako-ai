@@ -11,7 +11,10 @@ div.highlight {
         }
     }
 }
-
+.navbar.is-primary {
+    background-color: #fff;
+    color: #192A46;
+}
 .contents {
     box-shadow: $box-shadow;
     padding: 1.5rem;
