@@ -1,10 +1,10 @@
 # Site Settings
 lang: de
-title: Jako AI
-tagline: Jako AI
+title: Impact Labs
+tagline: Impact Labs
 email: mkro@jako-ai.de
 description: >
-  Jako pre launche site.
+  Impact Labs pre launche site.
 baseurl: "/jako-ai"
 url: ""
 permalink: pretty

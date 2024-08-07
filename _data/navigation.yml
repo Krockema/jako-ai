@@ -1,11 +1,11 @@
 - name: Products
   link: /#
   dropdown:
-    - name: Ara AI
+    - name: Voice Calling
       link: /products/product1
-    - name: Ara Search
+    - name: Neural Search
       link: /products/product2
-    - name: Ara Insight
+    - name: AI Insights
       link: /products/product3
 - name: Team
   link: /team/

@@ -1,12 +1,14 @@
 <nav
-    class="navbar is-primary {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}"
+    class="navbar is-bold {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}"
     x-data="{ openNav: false }"
 >
+
     <div class="container">
         <div class="navbar-brand">
             <a href="{{ site.baseurl }}/" class="navbar-item">
                 {{ site.title }}
             </a>
+                <img src="/jako-ai/img/IL_color_gradient.png" class="logo" alt="Italian Trulli">
             <a
                 role="button"
                 class="navbar-burger burger"
