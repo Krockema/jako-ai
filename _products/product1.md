@@ -2,6 +2,7 @@
 title: Ara AI
 subtitle: Online 
 description: Der letzte Call-Center-Agent - Jako
+hero_height: is-small
 product_code: parrot_v1
 layout: product
 image: ../../img/Parrot_Call.png

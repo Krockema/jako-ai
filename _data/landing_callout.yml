@@ -1,7 +1,7 @@
 style: is-light
 height: is-medium
 items:
-  - title: Ara AI
+  - title: Voice Calling
     subtitle: Der letzte Call-Center-Agent
     icon: fa-phone-square
     description: >
@@ -9,7 +9,7 @@ items:
       Unser virtueller Assistent ist wie kein anderer in der Lage, nahtlos in Ihre IT-Infrastruktur zu integrieren. Mit der Fähigkeit zu telefonieren, zu chatten und E-Mails zu schreiben, steht er Ihren Kunden jederzeit zur Verfügung.
     call_to_action_name: Probier mich aus!
     call_to_action_link: /products/product1
-  - title: Ara Search
+  - title: Neural Search
     subtitle: Dein zuverlässiger Suchgefährte mit dem Charme von Jako, dem Graupapagei
     icon: fa-search
     description: >
@@ -17,7 +17,7 @@ items:
       Egal, ob es sich um interne Datenbanken, Unternehmensdokumente oder externe Quellen handelt - Ara Search findet, sichtet und präsentiert Ihnen die relevanten Informationen in kürzester Zeit.
     call_to_action_name: Probier mich aus!
     call_to_action_link: /products/product2
-  - title: Ara Insight
+  - title: Neural Insight
     subtitle: Finde den Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
     icon: fa-chart-line
     description: >

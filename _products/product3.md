@@ -3,6 +3,7 @@ title: Ara Insight
 subtitle: Finde den Schlüssel zu tieferen Einblicken und besseren Entscheidungen!
 product_code: ABC125
 layout: product
+hero_height: is-small
 image: ../../img/Parrot_Ins.png
 price: 99 € per Agent
 features:
