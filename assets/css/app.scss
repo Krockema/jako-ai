@@ -13,4 +13,8 @@ $primary: $violet;
 $primary-invert: $blue-invert;
 // Import Main CSS file from theme
 
+.navbar-menu {
+    flex-grow: 1; 
+}
+
 @import "main";
