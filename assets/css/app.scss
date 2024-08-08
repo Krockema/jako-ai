@@ -13,7 +13,7 @@ $footer-color: transparent;
 $primary: $violet;
 $primary-invert: $blue-invert;
 // Import Main CSS file from theme
-
+@import "main";
 
 // makes menu band left bound.
 .navbar-menu {
@@ -22,7 +22,14 @@ $primary-invert: $blue-invert;
 
 .hero {
     background-color: transparent;
+    
 }
+
+.nav-link .landing {
+  color: $violet;
+}
+
+
 .hero.is-light {
   background-color: transparent;
 }
@@ -51,4 +58,4 @@ body {
 }
 
 
-@import "main";
+
