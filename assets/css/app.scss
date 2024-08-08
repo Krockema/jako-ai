@@ -35,25 +35,25 @@ a.nav-link.landing {
 }
 // body gray fade
 body {      
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(25, 42, 70, 0.3)), no-repeat center center fixed;
-    background-size: cover;      
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-family: Helvetica, sans-serif;
-    min-height: 100vh;
-  }
+  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(25, 42, 70, 0.3)), no-repeat center center fixed;
+  background-size: cover;      
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica, sans-serif;
+  min-height: 100vh;
+}
 
-  .logo {
-    text-align: center;
-    margin-top: 40vw;
-    margin-bottom: 10px;
-  }
+.logo {
+  text-align: center;
+  margin-top: 40vw;
+  margin-bottom: 10px;
+}
 
-  .logo img {
-    width: 40vw;
-  }
+img.logo {
+  width: 40vw;
+}
 .footer {      
   background: transparent;
 }
