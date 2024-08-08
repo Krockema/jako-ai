@@ -25,7 +25,7 @@ $primary-invert: $blue-invert;
     
 }
 
-.nav-link .landing {
+.nav-link .landing a {
   color: $violet;
 }
 
@@ -47,6 +47,7 @@ body {
 
   .logo {
     text-align: center;
+    margin-top: 40vw;
     margin-bottom: 10px;
   }
 

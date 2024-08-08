@@ -1,22 +1,22 @@
 <div class="{% if page.hero_darken %} hero-darken {% endif %}">
-<div class="hero is-fullheight">
-    <section class="{% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}"
-        {% if page.hero_image %}
-            style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: 400px 400px;"
-        {% endif %}
-    >
-    
+<section class="{% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}"
+    {% if page.hero_image %}
+        style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: 400px 400px;"
+    {% endif %}
+>
+    <div class="hero is-fullheight">
         <div class="container">
-
+            <div class="logo">
+                 <img src="{{ page.hero_image }}" alt="Company Logo">
+            </div>
             <nav class="navbar landing">
                 <a class="nav-link landing" href="#">announcements</a>
                 <a class="nav-link landing" href="#">our team</a>
                 <a class="nav-link landing" href="#">what's next</a>
             </nav>
         </div>
-    
-    </section>
-</div>
+    </div>
+</section>
 </div>
 
 
