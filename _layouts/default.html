@@ -19,7 +19,11 @@
     {% endif %}
 >
     {% include head.html %}
-    <body>
+    <body 
+        {% if page.show_landing %}
+                class"landing"
+        {% endif %}
+        >
         {% if site.cookie_policy %}
             {% include cookie-banner.html %}
         {% endif %}
