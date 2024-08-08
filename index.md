@@ -1,7 +1,7 @@
 ---
 title: Impact Labs
 subtitle: Die zukunft spricht KI!
-layout: landing
+layout: page
 hero_height: is-medium
 hide_hero: true
 hide_header: true
