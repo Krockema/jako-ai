@@ -1,25 +1,22 @@
 <div class="{% if page.hero_darken %} hero-darken {% endif %}">
 <section
-    class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary"
+    class="{% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %}"
     {% if page.hero_image %}
         style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: 400px 400px;"
     {% endif %}
 >
-    <div class="hero-body">
+    <div class="hero-body-landing">
         <div class="container">
             <div class="logo">
-                 <img src="/jako-ai/img/IL_color_gradient.png" alt="Company Logo">
+                 
             </div>
+            <nav class="navbar">
+                <a class="nav-link" href="#">announcements</a>
+                <a class="nav-link" href="#">our team</a>
+                <a class="nav-link" href="#">what's next</a>
+            </nav>
         </div>
     </div>
 </section>
 </div>
-
-<div class="{% if page.hero_darken %} hero-darken {% endif %}">
-    <div class="custom_hero">
-
-    </div>
-
-</div>
-
 

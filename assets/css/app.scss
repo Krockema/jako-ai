@@ -23,6 +23,9 @@ $primary-invert: $blue-invert;
 .hero {
     background-color: transparent;
 }
+.hero.is-light {
+  background-color: transparent;
+}
 // body gray fade
 body {      
     background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(25, 42, 70, 0.3)), no-repeat center center fixed;
@@ -43,6 +46,9 @@ body {
   .logo img {
     width: 40vw;
   }
+.footer {      
+  background: transparent;
+}
 
 
 @import "main";
