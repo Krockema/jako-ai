@@ -8,6 +8,7 @@ $violet: #740558;
 // --- navbar 
 
 $navbar-height: 2.25rem;
+$footer-color: transparent;
 
 $primary: $violet;
 $primary-invert: $blue-invert;
@@ -17,6 +18,10 @@ $primary-invert: $blue-invert;
 // makes menu band left bound.
 .navbar-menu {
     flex-grow: 0 !important; 
+}
+
+.hero {
+    background-color: transparent;
 }
 // body gray fade
 body {      

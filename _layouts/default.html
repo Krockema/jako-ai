@@ -29,6 +29,9 @@
         {% unless page.hide_hero %}
             {% include hero.html %}
         {% endunless %}
+        {% if page.show_landing %}
+            {% include landing.html %}
+        {% endunless %}
         {% include callouts.html %}
         <section class="section">
             <div class="container">
